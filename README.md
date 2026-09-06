@@ -2,15 +2,15 @@
 <!--                      HERO BANNER                         -->
 <!-- ======================================================== -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=1,14,26,30&text=Abdulhafiz%20Davlatov&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Python%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Abdulhafiz Davlatov Banner" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=1,14,26,30&text=Abdulhafiz%20Davlatov&fontSize=42&fontAlignY=38&desc=Go%20%2B%20Python%20Backend%20Architect%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Abdulhafiz Davlatov Banner" />
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/auzcoder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+Full+Stack+Developer;Django+%7C+FastAPI+%7C+Vue.js+Architect;AI+%7C+Computer+Vision+%7C+Proctoring+Systems;Building+Scalable+University+Digital+Ecosystems;PostgreSQL+%7C+Redis+%7C+Docker+%7C+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Go+%2B+Python+Backend+Architect;Building+High-Performance+Concurrent+Microservices;MDM+Device+Financing+Platforms;Scalable+University+Digital+Ecosystems;AI+%2B+Computer+Vision+%2B+Proctoring+Systems;Docker+%2B+Nginx+%2B+Linux+DevOps" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <p align="center">
   <a href="https://github.com/auzcoder">
@@ -19,6 +19,8 @@
   <a href="https://github.com/auzcoder?tab=followers">
     <img src="https://img.shields.io/github/followers/auzcoder?style=for-the-badge&logo=github&color=1e293b&labelColor=0f172a" alt="GitHub Followers" />
   </a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <a href="https://docs.github.com/developers/overview/github-developer-program">
     <img src="https://img.shields.io/badge/GitHub-Developer%20Program-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program" />
   </a>
@@ -30,13 +32,14 @@
 
 ### 💫 About Me
 
-I am a **Full Stack Python Developer & AI Systems Architect** from Uzbekistan 🇺🇿. I build robust digital infrastructures, university management platforms, online proctoring systems, and high-performance backend APIs.
+I am a **Backend Architect & Full Stack Engineer (Go & Python)** from Uzbekistan 🇺🇿. I specialize in engineering high-throughput microservices, concurrent network platforms, mobile device management (MDM) engines, and AI-powered proctoring platforms.
 
 - 🏢 Software Engineer at **[@namdudeveloper](https://github.com/namdudeveloper)** & **[@SuniCode-LLC](https://github.com/SuniCode-LLC)**
-- 🎓 Specializing in **Large-scale Educational Ecosystems** and **LMS / CRM platforms**
-- 🤖 Developing **AI & Computer Vision** solutions (Face Recognition, Behavioral Anti-cheating Proctoring)
-- ⚡ Deep expertise in **Clean Architecture**, **Asynchronous Python**, and **High-concurrency WebSockets**
-- ☁️ Production-grade deployments with **Docker, Nginx, Redis, and Linux Server Administration**
+- 🔷 Building **High-Concurrency Systems in Go (Golang)**: Chi, pgx connection pooling, Goroutines/Channels, Apple NanoMDM & Android AMAPI integrations
+- 🐍 Architecting **Enterprise Backends in Python**: Django, Django REST Framework, FastAPI, WebSockets, and Celery
+- 🤖 Developing **AI & Computer Vision Solutions**: Facial recognition, gaze estimation, and automated anti-cheating proctoring engines (OpenCV, InsightFace, PyTorch)
+- 🎓 Specialized in **University Digital Ecosystems**, **Device Financing Platforms**, and **Real-time Testing Engines**
+- ☁️ Production-grade infrastructure with **Docker, Nginx, Redis, PostgreSQL, and Linux Server Administration**
 
 ---
 
@@ -44,11 +47,13 @@ I am a **Full Stack Python Developer & AI Systems Architect** from Uzbekistan �
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🎓 **University EcoSystem** | Unified digital campus platform managing academic workflows, grading, student services, and faculty portals. | `Django` `Vue.js` `PostgreSQL` `Redis` | 🚀 Production |
-| 📝 **Piima Quiz** | Real-time examination & testing engine capable of handling high concurrent student loads. | `DRF` `WebSockets` `Redis` `Vue.js` | 🚀 Production |
-| 🤖 **AI Proctoring** | Automated AI surveillance suite featuring face identification, gaze monitoring, and anti-cheating alerts. | `Python` `OpenCV` `InsightFace` `PyTorch` | 🚀 Production |
+| 📱 **MDM Device Financing Lock** | Enterprise MDM platform for installment smartphone sales. Automates remote locking/unlocking via Apple APNs (PKCS12/7) and Android Management API (AMAPI). | `Go (Golang)` `Chi` `PostgreSQL (pgx)` `React` `AMAPI` | 🚀 Production |
+| ⚡ **UZIMEI Pro Batch Validator** | High-throughput IMEI verification engine capable of 1,000+ daily checks. Features dynamic 4G mobile proxy rotator, automatic IP renewal, and zero-latency caching. | `Go (Golang)` `Concurrency` `Proxy Rotator` `Tailwind` | 🚀 Production |
+| 🎓 **University EcoSystem** | Unified digital campus infrastructure managing academic workflows, grading, student services, and faculty portals. | `Django` `Vue.js` `PostgreSQL` `Redis` `Docker` | 🚀 Production |
+| 📝 **Piima Quiz** | Real-time online examination & testing engine capable of handling high concurrent student loads with zero state loss. | `DRF` `WebSockets` `Redis` `Vue.js` | 🚀 Production |
+| 🤖 **AI Proctoring Engine** | Automated AI surveillance suite featuring face biometric verification, gaze monitoring, and anti-cheating alerts. | `Python` `OpenCV` `InsightFace` `PyTorch` | 🚀 Production |
 | 📚 **Edumy CRM & LMS** | All-in-one Learning Management and CRM solution built for modern education academies. | `Django` `DRF` `PostgreSQL` `Tailwind` | 🚀 Production |
-| 💼 **SpeedPOS** | Ultra-responsive Point-of-Sale (POS) software for fast-paced retail and services workflows. | `Python` `PostgreSQL` `REST API` | 🚀 Production |
+| 💼 **SpeedPOS** | Ultra-responsive Point-of-Sale (POS) software for fast-paced commercial retail and services workflows. | `Go` `Python` `PostgreSQL` `REST API` | 🚀 Production |
 | 🤖 **Zeytun AI** | Intelligent business automation platform integrating custom bots and modern AI workflows. | `Python` `LLM APIs` `AsyncIO` | ⚡ Active |
 
 ---
@@ -57,29 +62,29 @@ I am a **Full Stack Python Developer & AI Systems Architect** from Uzbekistan �
 
 <div align="center">
 
-#### 🐍 Backend & APIs
+#### 🔷 Backend & Core Engines (Go & Python)
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs&theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=go,python,django,fastapi,nodejs&theme=dark" alt="Backend Skills" />
 </a>
 
-#### 💻 Frontend & Web
+#### 💻 Frontend & Web Applications
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,ts,js,tailwind,html,css,bootstrap&theme=dark" alt="Frontend Skills" />
 </a>
 
-#### 🗄️ Database & Cache
+#### 🗄️ Databases & In-Memory Caches
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb&theme=dark" alt="Database Skills" />
 </a>
 
-#### ☁️ DevOps & Infrastructure
+#### ☁️ DevOps, Cloud & Infrastructure
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,git,github,cloudflare&theme=dark" alt="DevOps Skills" />
 </a>
 
-#### 🛠 Tools & Environment
+#### 🛠 Development Tools & Environments
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,postman,figma&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,figma&theme=dark" alt="Tools" />
 </a>
 
 </div>
@@ -139,52 +144,62 @@ I am a **Full Stack Python Developer & AI Systems Architect** from Uzbekistan �
 ```mermaid
 flowchart TD
     subgraph ClientSide ["💻 Client Layer"]
-        UI["🖥️ Vue.js / Nuxt.js SPA"]
-        Mobile["📱 Mobile & Web Clients"]
+        Web["🖥️ Vue.js / React / Nuxt.js SPA"]
+        Mobile["📱 Mobile Clients & Device Policy Agent"]
     end
 
-    subgraph Gateway ["🛡️ Gateway & Proxy Layer"]
+    subgraph Gateway ["🛡️ Gateway & Reverse Proxy"]
         Nginx["🌐 Nginx (SSL Termination & Load Balancer)"]
     end
 
-    subgraph Backend ["⚡ Application Layer (Docker Containers)"]
-        Django["🐍 Django & Django REST Framework (ASGI / Gunicorn)"]
-        WS["⚡ WebSockets Engine (Realtime State Sync)"]
-        AI["🤖 AI Proctoring Service (OpenCV + InsightFace)"]
+    subgraph Microservices ["⚡ Core Application Services (Docker Engine)"]
+        direction TB
+        GoSvc["🔷 Go High-Performance Microservices<br/>(Chi • pgx • Goroutines • MDM Lock • Proxy Rotator)"]
+        PySvc["🐍 Python Enterprise Services<br/>(Django & DRF • FastAPI • WebSockets Engine)"]
+        AISvc["🤖 AI Computer Vision Worker<br/>(OpenCV • InsightFace • Biometric Face Recognition)"]
     end
 
-    subgraph DataLayer ["🗄️ Persistence & Caching Layer"]
-        PG[("🐘 PostgreSQL (Primary Relational DB)")]
-        Redis[("⚡ Redis (Cache, Sessions & Task Broker)")]
+    subgraph DataLayer ["🗄️ Storage & Caching Layer"]
+        PG[("🐘 PostgreSQL (Primary Relational Database)")]
+        Redis[("⚡ Redis (High-speed Cache, Sessions & Task Broker)")]
+    end
+
+    subgraph External ["🌐 External Integrations"]
+        AppleMDM["🍏 Apple APNs / NanoMDM (PKCS12 / PKCS7)"]
+        GoogleAMAPI["🤖 Google Android Management API (AMAPI)"]
     end
 
     subgraph Infra ["☁️ Infrastructure"]
         Host["🐧 Linux (Ubuntu Server) + Docker Engine"]
     end
 
-    UI --> Nginx
+    Web --> Nginx
     Mobile --> Nginx
-    Nginx --> Django
-    Nginx --> WS
-    Django <--> PG
-    Django <--> Redis
-    Django <--> AI
-    WS <--> Redis
-    Backend --> Host
+    Nginx --> GoSvc
+    Nginx --> PySvc
+    GoSvc <--> PG
+    GoSvc <--> Redis
+    GoSvc <--> AppleMDM
+    GoSvc <--> GoogleAMAPI
+    PySvc <--> PG
+    PySvc <--> Redis
+    PySvc <--> AISvc
+    Microservices --> Host
 
     classDef default fill:#0f172a,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc;
     classDef highlight fill:#0369a1,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
-    class Django,AI,PG,Redis highlight;
+    class GoSvc,PySvc,AISvc,PG,Redis highlight;
 ```
 
 ---
 
 ### 🎯 2026 Core Objectives
 
+- [x] 🔷 High-performance Go microservices & MDM lock platform deployment
 - [x] 🎓 Scaled University Digital Ecosystem v2 deployment
 - [x] 🤖 High-accuracy AI Proctoring pipeline implementation
 - [ ] ☁️ Microservices orchestration with Kubernetes & Nomad
-- [ ] ⚡ Launching new AI-driven SaaS platforms
+- [ ] ⚡ Launching new AI & Go-driven SaaS platforms
 - [ ] 🌍 Active open-source tooling contributions
 - [ ] 📈 Target: 2,000+ GitHub contributions this year
 
@@ -226,6 +241,6 @@ flowchart TD
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=1,14,26,30&section=footer" width="100%" alt="Footer" />
-</div>
+</p>
