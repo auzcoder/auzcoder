@@ -143,22 +143,34 @@ I am a **Backend Architect & Full Stack Software Engineer (Go & Python)** from U
 
 <div align="center">
   <a href="https://github.com/auzcoder?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark x3" title="Pull Shark (Silver x3)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="85" alt="Pull Shark x3" title="Pull Shark (Silver x3)" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/auzcoder?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="95" alt="Quickdraw" title="Quickdraw" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain (Silver)" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/auzcoder?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" alt="YOLO" title="YOLO" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/auzcoder?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="85" alt="Quickdraw" title="Quickdraw" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/auzcoder?tab=achievements">
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="85" alt="YOLO" title="YOLO" />
   </a>
   <br/>
   <p>
-    <b>🦈 Pull Shark (Silver x3)</b> &nbsp;•&nbsp; 
+    <b>🦈 Pull Shark (x3)</b> &nbsp;•&nbsp; 
+    <b>🧠 Galaxy Brain (Silver)</b> &nbsp;•&nbsp; 
+    <b>👥 Pair Extraordinaire</b> &nbsp;•&nbsp; 
     <b>⚡ Quickdraw</b> &nbsp;•&nbsp; 
-    <b>🎯 YOLO</b> &nbsp;•&nbsp; 
-    <b>💻 Developer Program</b> &nbsp;•&nbsp; 
+    <b>🎯 YOLO</b>
+  </p>
+  <p>
+    <b>💻 Developer Program Member</b> &nbsp;•&nbsp; 
     <b>⭐ GitHub Pro</b>
   </p>
 </div>
