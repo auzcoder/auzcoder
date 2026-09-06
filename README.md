@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/auzcoder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Go+%2B+Python+Backend+Architect;Building+High-Performance+Concurrent+Microservices;MDM+Device+Financing+Platforms;Scalable+University+Digital+Ecosystems;AI+%2B+Computer+Vision+%2B+Proctoring+Systems;Docker+%2B+Nginx+%2B+Linux+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Go+%2B+Python+Backend+Architect;Creator+of+Tayyor+Business+Ecosystem;MDM+Device+Financing+Lock+Platforms;Keldi-Ketti+%2B+SmartNavbat+%2B+UniDoc;AI+%2B+Computer+Vision+%2B+Proctoring+Systems;High-Performance+Distributed+Microservices" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,29 +32,55 @@
 
 ### 💫 About Me
 
-I am a **Backend Architect & Full Stack Engineer (Go & Python)** from Uzbekistan 🇺🇿. I specialize in engineering high-throughput microservices, concurrent network platforms, mobile device management (MDM) engines, and AI-powered proctoring platforms.
+I am a **Backend Architect & Full Stack Software Engineer (Go & Python)** from Uzbekistan 🇺🇿. I architect and build enterprise-grade automation platforms, high-concurrency microservices, MDM device financing ecosystems, and academic digital infrastructures.
 
 - 🏢 Software Engineer at **[@namdudeveloper](https://github.com/namdudeveloper)** & **[@SuniCode-LLC](https://github.com/SuniCode-LLC)**
-- 🔷 Building **High-Concurrency Systems in Go (Golang)**: Chi, pgx connection pooling, Goroutines/Channels, Apple NanoMDM & Android AMAPI integrations
-- 🐍 Architecting **Enterprise Backends in Python**: Django, Django REST Framework, FastAPI, WebSockets, and Celery
-- 🤖 Developing **AI & Computer Vision Solutions**: Facial recognition, gaze estimation, and automated anti-cheating proctoring engines (OpenCV, InsightFace, PyTorch)
-- 🎓 Specialized in **University Digital Ecosystems**, **Device Financing Platforms**, and **Real-time Testing Engines**
-- ☁️ Production-grade infrastructure with **Docker, Nginx, Redis, PostgreSQL, and Linux Server Administration**
+- 🛍️ Architect of the **Tayyor Ecosystem** (TayyorApp, TayyorPOS, TayyorServer, TayyorBoshqaruv, TayyorDB, TayyorKeyGenerator, TayyorArxiv)
+- 🔷 **High-Throughput Go Systems**: Chi, pgx connection pooling, Goroutines, Channels, Apple NanoMDM (PKCS12/7) & Google Android Management API (AMAPI)
+- 🐍 **Enterprise Backends in Python**: Django, Django REST Framework, FastAPI, Celery, and WebSockets
+- 🤖 **AI & Computer Vision**: Biometric face identification, gaze estimation, and automated proctoring (OpenCV, InsightFace, PyTorch)
+- ☁️ Production-grade infrastructure: **Docker, Nginx, PostgreSQL, Redis, Linux (Ubuntu), and CI/CD**
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Systems
+
+#### 💼 1. Tayyor Ecosystem (Full-Cycle Business & Retail Automation)
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 📱 **MDM Device Financing Lock** | Enterprise MDM platform for installment smartphone sales. Automates remote locking/unlocking via Apple APNs (PKCS12/7) and Android Management API (AMAPI). | `Go (Golang)` `Chi` `PostgreSQL (pgx)` `React` `AMAPI` | 🚀 Production |
-| ⚡ **UZIMEI Pro Batch Validator** | High-throughput IMEI verification engine capable of 1,000+ daily checks. Features dynamic 4G mobile proxy rotator, automatic IP renewal, and zero-latency caching. | `Go (Golang)` `Concurrency` `Proxy Rotator` `Tailwind` | 🚀 Production |
-| 🎓 **University EcoSystem** | Unified digital campus infrastructure managing academic workflows, grading, student services, and faculty portals. | `Django` `Vue.js` `PostgreSQL` `Redis` `Docker` | 🚀 Production |
-| 📝 **Piima Quiz** | Real-time online examination & testing engine capable of handling high concurrent student loads with zero state loss. | `DRF` `WebSockets` `Redis` `Vue.js` | 🚀 Production |
-| 🤖 **AI Proctoring Engine** | Automated AI surveillance suite featuring face biometric verification, gaze monitoring, and anti-cheating alerts. | `Python` `OpenCV` `InsightFace` `PyTorch` | 🚀 Production |
-| 📚 **Edumy CRM & LMS** | All-in-one Learning Management and CRM solution built for modern education academies. | `Django` `DRF` `PostgreSQL` `Tailwind` | 🚀 Production |
-| 💼 **SpeedPOS** | Ultra-responsive Point-of-Sale (POS) software for fast-paced commercial retail and services workflows. | `Go` `Python` `PostgreSQL` `REST API` | 🚀 Production |
-| 🤖 **Zeytun AI** | Intelligent business automation platform integrating custom bots and modern AI workflows. | `Python` `LLM APIs` `AsyncIO` | ⚡ Active |
+| 🛍️ **TayyorApp** | Universal client application for online ordering, menu browsing, and service tracking. | `Vue.js` `TypeScript` `REST API` | 🚀 Production |
+| 💳 **TayyorPOS** | Ultra-responsive Point-of-Sale cash register terminal for fast checkout, receipts & offline-first sync. | `Go` `Python` `PostgreSQL` | 🚀 Production |
+| ⚡ **TayyorServer** | High-performance backend engine orchestrating real-time transactions, orders, and state sync. | `Go (Golang)` `Chi` `pgx` `Redis` | 🚀 Production |
+| 📊 **TayyorBoshqaruv** | Comprehensive ERP & administrative dashboard for analytics, inventory control & branch management. | `Vue.js` `Tailwind` `Django` | 🚀 Production |
+| 🗄️ **TayyorDB** | Dedicated data layer with automated replication, connection pooling, and optimized queries. | `PostgreSQL` `Redis` `Docker` | 🚀 Production |
+| 🔑 **TayyorKeyGenerator** | Cryptographic license generator and hardware-locked activation verification utility. | `Go` `Cryptography` `CLI / API` | 🚀 Production |
+| 📦 **TayyorArxiv** | Automated data archiving, cold storage snapshots, and disaster-recovery backup engine. | `Go` `Linux` `Bash` `Storage` | 🚀 Production |
+
+---
+
+#### 🛡️ 2. Enterprise, IoT & Fintech Solutions
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 📱 **PhoneSeller (MDM)** | Enterprise Device Financing Lock platform. Automates remote smartphone locking/unlocking for installment purchases via Apple APNs (PKCS12/7) and Android Management API (AMAPI). | `Go (Golang)` `Chi` `pgx` `React` `AMAPI` | 🚀 Production |
+| 🛡️ **Aegis** | Advanced software licensing, runtime integrity protection, and anti-tamper security framework. | `Go` `C/C++ Interop` `Crypto` | 🚀 Production |
+| ⏱️ **Keldi-Ketti** | Biometric employee attendance tracking and shift management platform with automated payroll metrics. | `Python` `Go` `Face ID / RFID` `PostgreSQL` | 🚀 Production |
+| 🎫 **SmartNavbat** | Real-time electronic queue management system with ticket dispensers, TV displays, and SMS/push alerts. | `Go` `WebSockets` `Vue.js` `Redis` | 🚀 Production |
+| 🤖 **Seller-Bot** | High-concurrency e-commerce Telegram bot handling product catalogs, carts, and payment integrations. | `Go / Python` `Telegram Bot API` `PostgreSQL` | 🚀 Production |
+
+---
+
+#### 🎓 3. EdTech & University Platforms
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 📄 **UniDoc** | University electronic document flow, decree verification, digital signatures & official registry. | `Django` `Vue.js` `PostgreSQL` `Docker` | 🚀 Production |
+| 📝 **OsonTest** | Fast and scalable online testing engine with real-time question timers, shuffling, and instant grading. | `Go` `DRF` `WebSockets` `Vue.js` | 🚀 Production |
+| 📚 **Bilimsari** | Modern learning management system (LMS) and video course academy with student progress tracking. | `Django` `PostgreSQL` `Tailwind CSS` | 🚀 Production |
+| 📖 **Library** | Digital academic library, e-book cataloging, full-text search engine, and resource management. | `Python` `PostgreSQL` `Full-text Search` | 🚀 Production |
+| 🎓 **University EcoSystem** | Unified digital campus platform managing academic workflows, grading, student services & faculty. | `Django` `Vue.js` `PostgreSQL` `Redis` | 🚀 Production |
+| 🤖 **AI Proctoring Engine** | Automated anti-cheating exam proctoring suite with facial recognition, gaze tracking & audio alerts. | `Python` `OpenCV` `InsightFace` `PyTorch` | 🚀 Production |
 
 ---
 
@@ -62,7 +88,7 @@ I am a **Backend Architect & Full Stack Engineer (Go & Python)** from Uzbekistan
 
 <div align="center">
 
-#### 🔷 Backend & Core Engines (Go & Python)
+#### 🔷 Core Backend & Microservices (Go & Python)
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=go,python,django,fastapi,nodejs&theme=dark" alt="Backend Skills" />
 </a>
@@ -143,64 +169,63 @@ I am a **Backend Architect & Full Stack Engineer (Go & Python)** from Uzbekistan
 
 ```mermaid
 flowchart TD
-    subgraph ClientSide ["💻 Client Layer"]
-        Web["🖥️ Vue.js / React / Nuxt.js SPA"]
-        Mobile["📱 Mobile Clients & Device Policy Agent"]
+    subgraph Clients ["💻 Client Layer"]
+        TayyorClients["🖥️ TayyorApp / POS Terminals / Web Clients"]
+        SmartNavbatClients["🎫 SmartNavbat Ticket Displays & Dispensers"]
+        MobileMDM["📱 Mobile Devices (iOS & Android Policy Agents)"]
     end
 
     subgraph Gateway ["🛡️ Gateway & Reverse Proxy"]
-        Nginx["🌐 Nginx (SSL Termination & Load Balancer)"]
+        Nginx["🌐 Nginx (SSL Termination, Rate Limiting & Reverse Proxy)"]
     end
 
-    subgraph Microservices ["⚡ Core Application Services (Docker Engine)"]
+    subgraph Services ["⚡ Core Backend Microservices (Docker)"]
         direction TB
-        GoSvc["🔷 Go High-Performance Microservices<br/>(Chi • pgx • Goroutines • MDM Lock • Proxy Rotator)"]
-        PySvc["🐍 Python Enterprise Services<br/>(Django & DRF • FastAPI • WebSockets Engine)"]
-        AISvc["🤖 AI Computer Vision Worker<br/>(OpenCV • InsightFace • Biometric Face Recognition)"]
+        TayyorCore["🛍️ TayyorServer & POS Engine (Go • Chi • pgx)"]
+        MDMCore["📱 PhoneSeller MDM Lock Platform (Go • AMAPI • APNs)"]
+        QueueCore["🎫 SmartNavbat & Realtime Engine (Go • WebSockets)"]
+        EduCore["🎓 UniDoc & University Platforms (Django • DRF • Celery)"]
+        AICore["🤖 AI Proctoring & Keldi-Ketti (OpenCV • InsightFace)"]
     end
 
-    subgraph DataLayer ["🗄️ Storage & Caching Layer"]
-        PG[("🐘 PostgreSQL (Primary Relational Database)")]
-        Redis[("⚡ Redis (High-speed Cache, Sessions & Task Broker)")]
+    subgraph DataTier ["🗄️ Persistence & Distributed Cache"]
+        TayyorData[("🐘 TayyorDB / PostgreSQL Clusters")]
+        CacheTier[("⚡ Redis (State Sync, Task Queues & Sessions)")]
+        ArchiveTier[("📦 TayyorArxiv (Cold Backups & Disaster Recovery)")]
     end
 
-    subgraph External ["🌐 External Integrations"]
-        AppleMDM["🍏 Apple APNs / NanoMDM (PKCS12 / PKCS7)"]
-        GoogleAMAPI["🤖 Google Android Management API (AMAPI)"]
+    subgraph ExternalGateways ["🌐 External Providers"]
+        AppleAPNs["🍏 Apple APNs / NanoMDM"]
+        GoogleAMAPI["🤖 Google Android Management API"]
+        PaymentProviders["💳 Payment & Billing Gateways"]
     end
 
-    subgraph Infra ["☁️ Infrastructure"]
-        Host["🐧 Linux (Ubuntu Server) + Docker Engine"]
-    end
-
-    Web --> Nginx
-    Mobile --> Nginx
-    Nginx --> GoSvc
-    Nginx --> PySvc
-    GoSvc <--> PG
-    GoSvc <--> Redis
-    GoSvc <--> AppleMDM
-    GoSvc <--> GoogleAMAPI
-    PySvc <--> PG
-    PySvc <--> Redis
-    PySvc <--> AISvc
-    Microservices --> Host
+    Clients --> Nginx
+    Nginx --> Services
+    TayyorCore <--> TayyorData
+    TayyorCore <--> CacheTier
+    MDMCore <--> AppleAPNs
+    MDMCore <--> GoogleAMAPI
+    MDMCore <--> TayyorData
+    QueueCore <--> CacheTier
+    EduCore <--> TayyorData
+    AICore <--> TayyorData
+    TayyorData --> ArchiveTier
 
     classDef default fill:#0f172a,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc;
     classDef highlight fill:#0369a1,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
-    class GoSvc,PySvc,AISvc,PG,Redis highlight;
+    class TayyorCore,MDMCore,EduCore,TayyorData,CacheTier highlight;
 ```
 
 ---
 
 ### 🎯 2026 Core Objectives
 
-- [x] 🔷 High-performance Go microservices & MDM lock platform deployment
-- [x] 🎓 Scaled University Digital Ecosystem v2 deployment
-- [x] 🤖 High-accuracy AI Proctoring pipeline implementation
-- [ ] ☁️ Microservices orchestration with Kubernetes & Nomad
-- [ ] ⚡ Launching new AI & Go-driven SaaS platforms
-- [ ] 🌍 Active open-source tooling contributions
+- [x] 🛍️ Scaled deployment of full Tayyor Ecosystem suite
+- [x] 📱 PhoneSeller MDM financing lock engine production launch
+- [x] 🎓 Scaled University Digital Ecosystem & UniDoc integration
+- [x] 🤖 High-accuracy AI Proctoring & Biometric Keldi-Ketti system
+- [ ] ☁️ Distributed cluster orchestration with Kubernetes & Nomad
 - [ ] 📈 Target: 2,000+ GitHub contributions this year
 
 ---
