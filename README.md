@@ -137,21 +137,31 @@ I am a **Backend Architect & Full Stack Software Engineer (Go & Python)** from U
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auzcoder/auzcoder/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auzcoder/auzcoder/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/auzcoder/auzcoder/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
 ---
 
 ### 🏆 Official GitHub Achievements
 
 <div align="center">
   <a href="https://github.com/auzcoder?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="85" alt="Pull Shark x3" title="Pull Shark (Silver x3)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="85" alt="Pull Shark" title="Pull Shark" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/auzcoder?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain (Silver)" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="85" alt="Galaxy Brain" title="Galaxy Brain (Platinum)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/auzcoder?tab=achievements">
-    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+    <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="85" alt="Pair Extraordinaire" title="Pair Extraordinaire (Silver x2)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/auzcoder?tab=achievements">
@@ -163,9 +173,9 @@ I am a **Backend Architect & Full Stack Software Engineer (Go & Python)** from U
   </a>
   <br/>
   <p>
-    <b>🦈 Pull Shark (x3)</b> &nbsp;•&nbsp; 
-    <b>🧠 Galaxy Brain (Silver)</b> &nbsp;•&nbsp; 
-    <b>👥 Pair Extraordinaire</b> &nbsp;•&nbsp; 
+    <b>🦈 Pull Shark</b> &nbsp;•&nbsp; 
+    <b>🧠 Galaxy Brain (Platinum 💎)</b> &nbsp;•&nbsp; 
+    <b>👥 Pair Extraordinaire (Silver x2)</b> &nbsp;•&nbsp; 
     <b>⚡ Quickdraw</b> &nbsp;•&nbsp; 
     <b>🎯 YOLO</b>
   </p>
