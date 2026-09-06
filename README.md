@@ -229,3 +229,5 @@ I am a **Backend Architect & Full Stack Software Engineer (Go & Python)** from U
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=1,14,26,30&section=footer" width="100%" alt="Footer" />
 </p>
+
+<!-- Built with passion by auzcoder • Open Source Collaboration -->
