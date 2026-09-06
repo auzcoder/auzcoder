@@ -165,57 +165,17 @@ I am a **Backend Architect & Full Stack Software Engineer (Go & Python)** from U
 
 ---
 
-### 🏗 System Architecture
+### 💻 Engineering in Action
 
-```mermaid
-flowchart TD
-    subgraph Clients ["💻 Client Layer"]
-        TayyorClients["🖥️ TayyorApp / POS Terminals / Web Clients"]
-        SmartNavbatClients["🎫 SmartNavbat Ticket Displays & Dispensers"]
-        MobileMDM["📱 Mobile Devices (iOS & Android Policy Agents)"]
-    end
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="Coding in Action" />
+</p>
 
-    subgraph Gateway ["🛡️ Gateway & Reverse Proxy"]
-        Nginx["🌐 Nginx (SSL Termination, Rate Limiting & Reverse Proxy)"]
-    end
-
-    subgraph Services ["⚡ Core Backend Microservices (Docker)"]
-        direction TB
-        TayyorCore["🛍️ TayyorServer & POS Engine (Go • Chi • pgx)"]
-        MDMCore["📱 PhoneSeller MDM Lock Platform (Go • AMAPI • APNs)"]
-        QueueCore["🎫 SmartNavbat & Realtime Engine (Go • WebSockets)"]
-        EduCore["🎓 UniDoc & University Platforms (Django • DRF • Celery)"]
-        AICore["🤖 AI Proctoring & Keldi-Ketti (OpenCV • InsightFace)"]
-    end
-
-    subgraph DataTier ["🗄️ Persistence & Distributed Cache"]
-        TayyorData[("🐘 TayyorDB / PostgreSQL Clusters")]
-        CacheTier[("⚡ Redis (State Sync, Task Queues & Sessions)")]
-        ArchiveTier[("📦 TayyorArxiv (Cold Backups & Disaster Recovery)")]
-    end
-
-    subgraph ExternalGateways ["🌐 External Providers"]
-        AppleAPNs["🍏 Apple APNs / NanoMDM"]
-        GoogleAMAPI["🤖 Google Android Management API"]
-        PaymentProviders["💳 Payment & Billing Gateways"]
-    end
-
-    Clients --> Nginx
-    Nginx --> Services
-    TayyorCore <--> TayyorData
-    TayyorCore <--> CacheTier
-    MDMCore <--> AppleAPNs
-    MDMCore <--> GoogleAMAPI
-    MDMCore <--> TayyorData
-    QueueCore <--> CacheTier
-    EduCore <--> TayyorData
-    AICore <--> TayyorData
-    TayyorData --> ArchiveTier
-
-    classDef default fill:#0f172a,stroke:#38bdf8,stroke-width:1.5px,color:#f8fafc;
-    classDef highlight fill:#0369a1,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
-    class TayyorCore,MDMCore,EduCore,TayyorData,CacheTier highlight;
-```
+<p align="center">
+  <a href="https://github.com/auzcoder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=while+(coding)+%7B+innovate()%3B+optimize()%3B+deploy()%3B+%7D;Crafting+robust+Go+microservices+and+scalable+Python+backends;Architecting+ecosystems+that+power+real-world+businesses." alt="Code Philosophy" />
+  </a>
+</p>
 
 ---
 
