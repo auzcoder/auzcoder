@@ -129,7 +129,7 @@ I am a **Backend Architect & Full Stack Software Engineer (Go & Python)** from U
 
 <div align="center">
   <a href="https://github.com/auzcoder">
-    <img src="https://github-stats-extended.vercel.app/api?username=auzcoder&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" height="180" alt="GitHub Stats" />
+    <img src="./assets/github-stats.svg" height="180" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/auzcoder">
